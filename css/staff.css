@@ -1,0 +1,39 @@
+
+* {
+	margin: 0; 
+	padding: 0;
+}
+#container {
+	height: 100%; 
+	width:100%; f
+	ont-size: 0;
+}
+#container h1 {
+	text-align: center;
+}
+#left, #middle, #right {
+	display: inline-block; 
+	*display: inline; zoom: 1; 
+	vertical-align: top; 
+	font-size: 12px;
+	margin: 20px;
+}
+#left {
+	width: 25%; 
+	text-align: justify;
+	background-color: #999;
+	border-radius: 10px;
+	
+}
+#middle {
+	width: 25%; 
+	text-align: justify;
+	background-color: #999;
+	border-radius: 10px;
+}
+#right {
+	width: 25%; 
+	text-align: justify;
+	background-color: #999;
+	border-radius: 10px;
+}
