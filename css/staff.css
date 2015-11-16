@@ -17,6 +17,8 @@
 	vertical-align: top; 
 	font-size: 12px;
 	margin: 20px;
+	text-align: justify;
+	padding: 20px;
 }
 #left {
 	width: 25%; 
